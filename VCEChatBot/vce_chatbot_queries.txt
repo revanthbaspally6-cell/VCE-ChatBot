@@ -1,0 +1,134 @@
+help
+what can you do
+show options
+show commands
+show menu
+hello
+hi
+hey
+hlo
+good morning
+good afternoon
+good evening
+namaste
+about college
+about vce
+tell me about vasavi college
+college info
+about vasavi engineering college
+college address
+where is college located
+location of vasavi college
+how to reach vasavi college
+college address and location
+contact details
+college phone number
+principal email id
+how to contact college
+college contact info
+official website
+college website
+what is vce website
+vce site link
+what are the departments
+branches available
+courses offered
+btech branches in vce
+list all departments
+cse department info
+about cse branch
+details of cse department
+what is taught in cse
+it department info
+about it branch
+details of information technology department
+ece department info
+about ece branch
+details of electronics and communication department
+eee department info
+about eee branch
+details of electrical and electronics department
+civil department info
+about civil engineering branch
+details of civil department
+mechanical department info
+about mechanical branch
+details of mechanical engineering department
+fee structure
+college fees details
+how much is the fee per year
+tuition fees in vce
+btech fee details
+admission process
+how to join vce
+rank required for vce cse
+rank required for vce it
+admissions information
+placement details
+placement record of vce
+highest package in vce
+average package in vce
+companies visiting vce
+library timings
+college library information
+books available in library
+digital library details
+hostel facility details
+does vce have hostel
+accommodation near vasavi college
+where do students stay
+transport facility
+college bus routes
+bus facility details
+how to reach by bus
+canteen details
+food available in college
+college canteen information
+college timings
+class timings of vce
+working hours of college
+exam timetable
+when are mid exams
+when are end exams
+exam dates in vce
+attendance rules
+minimum attendance required
+shortage of attendance rules
+exam results
+how to check results
+where can I see my results
+syllabus details
+subject list for cse
+course structure for it department
+curriculum details
+student clubs in vce
+technical clubs in college
+cultural clubs in college
+college fests details
+technical fests in vce
+cultural fest in vce
+events conducted in vce
+who is principal
+principal details
+how to calculate gpa
+how to calculate cgpa
+gpa and cgpa information
+anti ragging information
+how to give complaint
+grievance and harassment support
+lab facilities in vce
+what labs are available
+laboratory information
+college rules and discipline
+dress code in college
+code of conduct in vce
+faculty ramesh
+faculty sravani
+faculty nikhil
+faculty details of <name>
+cse faculty list
+ece faculty list
+eee faculty list
+civil faculty list
+mechanical faculty list
+it faculty list

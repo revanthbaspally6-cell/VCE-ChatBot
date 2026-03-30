@@ -1,0 +1,2 @@
+javac -d out src\vasavichatbot\*.java src\vasavichatbot\models\*.java src\vasavichatbot\ui\*.java
+java -cp out vasavichatbot.Main
